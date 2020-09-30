@@ -17,7 +17,7 @@ This repo contains the source code and documentation powering [reactjs.org](http
 1. `cd reactjs.org` to go into the project root
 1. `yarn` to install the website's npm dependencies
 
-### Running locally
+### Run locally
 
 1. `yarn dev` to start the hot-reloading development server (powered by [Gatsby](https://www.gatsbyjs.org))
 1. `open http://localhost:8000` to open the site in your favorite browser
